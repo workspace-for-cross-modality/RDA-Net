@@ -11,7 +11,7 @@
 
  ## Attention Results
  
- Here we draw the attention results learned by RDA-Net in NTU-60 dataset
+ Here we draw the attention results learned by RDA-Net in NTU-60 dataset, where the radius of the ellipses are proportional to the joint relevance.  The marked greenlight  ellipses  refer  to  the  correct  attention  weights ,  larger radius corresponding to larger weights.
  
 ![ours_attention](https://user-images.githubusercontent.com/78781422/111570684-4978a700-87e0-11eb-919b-d300b7a53a22.png)
  
