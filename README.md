@@ -1,5 +1,3 @@
-
-
 # RDA-Net: Relation-aware Dual-Attention Network for View-invariant Human Action Recognition.
 
  we propose a Relation-aware Dual-Attention Network (RDA-Net) for  view-invariant action recognition. The RDA-Net is compose of a  relation-aware self-attention module and a  cross-attention module. The  relation-aware self-attention module  learns representative and discriminative features that capture long-range dependencies and pair-wise relationships among human body parts/joints in the spatial and temporal channels. The cross-attention module is designed to learn view-invariant attention maps and generates discriminative features for a semantic representation of actions in different views.
@@ -42,7 +40,7 @@
 ![RDA-Net Hagging](https://user-images.githubusercontent.com/78781422/112777591-2e762480-9075-11eb-87a3-ba51cb49f740.png)
 
  - RDA-Net Attention weights (Hand-shaking).
- ![attention_58](https://user-images.githubusercontent.com/78781422/111569366-75465d80-87dd-11eb-8159-2154b39f9adf.png)
+ ![RDA-Handshaking](https://user-images.githubusercontent.com/78781422/112778729-b8bf8800-9077-11eb-90c2-a9b57a04ff84.png)
  
  
  # Conclusion 
