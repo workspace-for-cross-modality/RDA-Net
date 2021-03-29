@@ -15,10 +15,10 @@
 # UESTC-RGB 
 -	Request dataset here:  https://github.com/HRI-UESTC/CFM-HRI-RGB-D-action-database
 
-## Training 
+## Training (Change the config file depending on what you want)
 - python main.py  – config  ./config/uestc-cross-view/gview_g1.yaml
 
-## Testing 
+## Testing (Change the config file depending on what you want)
 - python main.py --config ./config/nturgbd-cross-view/evalgview_1.yaml
  
 
